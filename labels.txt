@@ -1,0 +1,8 @@
+Auto-rickshaw
+Bicycle
+Car
+Motorcycle
+E-rickshaw
+Bus
+Van
+Truck

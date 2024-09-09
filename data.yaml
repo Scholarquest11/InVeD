@@ -1,0 +1,16 @@
+
+path: 'InVeD'             # dataset root dir / works with YOLOv5, YOLOv8
+train: images/train                  # train images 
+val: images/val                      # val images 
+test: images/test
+
+nc: 8
+names:
+  0 : Auto-rickshaw
+  1 : Bicycle
+  2 : Car
+  3 : Motorcycle
+  4 : E-rickshaw
+  5 : Bus
+  6 : Van
+  7 : Truck
