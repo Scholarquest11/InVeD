@@ -8,7 +8,7 @@ To download, you can do one of the following:
 <br /> **2.   Download in ZIP format from Google Drive**: The InVeD dataset is available for download [here](https://drive.google.com/file/d/1S5Sg3ZQyijJM63pdiDi15qCnW-HXEvoW/view?usp=drive_link).
 # Dataset Details
 <br /> The dataset covers diverse scenarios encountered on Indian roads, including traffic congestion. It contains 11,162 images of eight vehicle categories - Auto-rickshaw, E-rickshaw, Van, Car, Bus, Bicycle, Motorcycle, Truck.
-<br /> **Annotations:** 36.17 K bounding boxes. All annotations are in YOLO format.
+<br /> **Annotations:** 36712 bounding boxes. All annotations are in YOLO format.
 
 
 
