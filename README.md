@@ -4,7 +4,7 @@
 This repository contains InVeD, an Indian Vehicle Dataset containing images for vehicle detection in Indian traffic. The dataset encompasses eight different types of vehicles commonly seen on Indian roads. It aims to address the unique challenges of Indian traffic,  including congestion, offering a valuable resource for researchers focused on developing vehicle detection techniques.
 
 To download, you can do one of the following:
-<br /> **1.   Clone this repository**:  Use command: ```git clone https://github.com/shrustiC11/InVeD```
+<br /> **1.   Clone this repository**:  Use command: ```git clone https://github.com/scholarquest11/InVeD```
 <br /> **2.   Download in ZIP format from Google Drive**: The InVeD dataset is available for download [here](https://drive.google.com/file/d/1S5Sg3ZQyijJM63pdiDi15qCnW-HXEvoW/view?usp=drive_link).
 # Dataset Details
 <br /> The dataset covers diverse scenarios encountered on Indian roads, including traffic congestion. It contains 11,162 images of eight vehicle categories - Auto-rickshaw, E-rickshaw, Van, Car, Bus, Bicycle, Motorcycle, Truck.
